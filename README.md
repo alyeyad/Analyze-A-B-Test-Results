@@ -6,7 +6,7 @@ This Project is a part of the Udacity Data Analysis Nanodegree
 
 # Overview
 
-This project analyzes the results of an A/B test run by an e-commerce website to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+This project analyzes the results of an A/B test run by an e-commerce website to help the company understand if they should implement a new homepage, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Tools Used
 
