@@ -24,7 +24,7 @@ This project analyzes the results of an A/B test run by an e-commerce website to
 - Irregularities are removed to **clean** the dataset
 - The Dataset is sampled to create a **sampling distribution**
 - **Hypothesis Tests** are performed to know if the new page drove higher conversion rates than the old page
-- Multiple **Logistic Regression** Model is fitted to verify th results
+- Multiple **Logistic Regression** Models are fitted to verify the results
 
 # Screenshots
 
